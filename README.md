@@ -4,8 +4,6 @@
 I'm passionate about crafting robust, scalable solutions, I thrive on transforming intricate challenges into elegant solutions.In a world of 1s and 0s, I believe in the elegance of simplicity and the power of clean, maintainable code. 
 Whether it's optimizing algorithms or sculpting databases, I strive for efficiency without compromising clarity.
 
-I hold a Master of Research degree in statistics, bringing a solid foundation in advanced statistical theory to the world of engineering. With a passion for both mathematics and programming, I thoroughly enjoy demonstrating how statistical techniques and a deep understanding of mathematical theory can be leveraged in software engineering to solve challenges and develop resilient, scalable applications.  
-
 🚀 Currently, I'm an experienced freelance Golang engineer, crafting custom solutions that drive business success. My projects range from building bespoke CRM systems tailored to clients' unique needs to developing sophisticated analytical software for decision-making.
 
 💼 Seeking a full-time permanent role to bring my expertise in Go development to a dynamic team and contribute to impactful projects on a larger scale.
