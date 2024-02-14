@@ -1,87 +1,111 @@
+# About me
 👋 Hi there! I'm Amy, a backend Go engineer 
 
 I'm passionate about crafting robust, scalable solutions, I thrive on transforming intricate challenges into elegant solutions.In a world of 1s and 0s, I believe in the elegance of simplicity and the power of clean, maintainable code. 
 Whether it's optimizing algorithms or sculpting databases, I strive for efficiency without compromising clarity.
 
-🚀 I'm currently an experienced freelance Golang engineer, crafting custom solutions that drive business success. I've had the opportunity to work on a variety of projects, including building bespoke CRM systems tailored to clients' unique needs and developing analytical software to provide valuable insights for decision-making.
+I hold a Master of Research degree in statistics, bringing a solid foundation in advanced statistical theory to the world of engineering. With a passion for both mathematics and programming, I thoroughly enjoy demonstrating how statistical techniques and a deep understanding of mathematical theory can be leveraged in software engineering to solve challenges and develop resilient, scalable applications.  
 
-💼 I'm now seeking a full-time permanent role where I can bring my expertise in Go development to a dynamic team and contribute to impactful projects on a larger scale.
+🚀 Currently, I'm an experienced freelance Golang engineer, crafting custom solutions that drive business success. My projects range from building bespoke CRM systems tailored to clients' unique needs to developing sophisticated analytical software for decision-making.
 
-🌱 Always eager to learn and adapt, I thrive on tackling new challenges and staying up-to-date with the latest advancements in technology.
+💼 Seeking a full-time permanent role to bring my expertise in Go development to a dynamic team and contribute to impactful projects on a larger scale.
 
-🔗 My GitHub serves as my portfolio, showcasing a curated collection of projects ranging from professional-level work to smaller projects aimed at demonstrating specific skills:
+🔗 My GitHub serves as a curated showcase of projects, from professional-level examples to smaller projects highlighting specific skills and the versatility of Golang.
 
- I have selected the below projects to serve as examples of Professional-Level Work:
-1. **Ticket Raising Platform Backend**: A comprehensive backend system demonstrating best practices in Golang development, including user authentication, ticket management, real-time communication, and email notifications.
+👽 Outside of programming, I enjoy classic sci-fi and playing both retro and modern video games.
 
-2. **Advanced Data Analysis CLI Framework**: A sophisticated framework designed for advanced data analysis tasks via the command-line interface, integrating Golang and Python for powerful and extensible analysis capabilities.
 
-The other projects on my profile are smaller and  have been selected to demonstrate specific skills and highlight the versilitility of Golang.
-By curating my GitHub profile in this manner, I aim to provide a comprehensive view of my expertise, ranging from professional-level projects to smaller, skill-focused demonstrations. Feel free to explore and delve into each project to gain insights into my technical abilities and coding style.
+# Portfolio
+
+🔗 My GitHub serves as a curated showcase of projects, ranging from professional-level examples to smaller projects spotlighting specific skills and highlighting the versatility of Golang.
+
+Each public project on my profile has been specially crafted to serve as portfolio pieces. Please note, my professional work for clients is set to private as these remain confidential.
 
 [Explore my GitHub profile](https://github.com/amy324)
 
-### Ticket Raising Platform Backend
-A project demonstrating best practices in Golang backend development, including user authentication, ticket management, real-time communication, and email notifications.
+## Professional-Level Examples
 
-- **Key Features**:
-  - **User Authentication and Authorization**: Token-based authentication and authorization mechanisms using JSON Web Tokens (JWT).
-  - **Ticket Management**: Endpoints for CRUD operations on support tickets, categorized and tracked efficiently.
-  - **Real-Time Communication**: Messaging features embedded within ticket threads.
-  - **Email Notifications**: Notifies users about ticket updates and relevant events, utilizing Mailtrap for testing purposes.
-  - **Data Persistence and Management**: Utilizes MySQL for storing and managing data.
-  - **Tech Stack**: Golang, Gorilla Mux, MySQL, Mailtrap, JWT for authentication, Render for deployment, Postman for testing, Git for version control.
+### Ticket Raising Platform Backend
+A comprehensive backend system demonstrating best practices in Golang development, including user authentication, ticket management, real-time communication, and email notifications.
+
+**Key Features**:
+- User Authentication and Authorization: Token-based authentication and authorization mechanisms using JSON Web Tokens (JWT).
+- Ticket Management: Endpoints for CRUD operations on support tickets, categorized and tracked efficiently.
+- Real-Time Communication: Messaging features embedded within ticket threads.
+- Email Notifications: Notifies users about ticket updates and relevant events, utilizing Mailtrap for testing purposes.
+- Data Persistence and Management: Utilizes MySQL for storing and managing data.
+- **Tech Stack**: Golang, Gorilla Mux, MySQL, Mailtrap, JWT for authentication, Render for deployment, Postman for testing, Git for version control.
 
 [Explore Ticket Raising Platform Backend](https://github.com/amy324/Ticket-Raising-Platform-Backend)
 
 ### Advanced Data Analysis CLI Framework
-A comprehensive and extensible framework designed for advanced data analysis tasks via command-line interface.
+A versatile and scalable framework tailored for conducting fully customizable sophisticated data analysis tasks through a command-line interface. Its design and functionality closely resemble a custom program I developed for a client, showcasing its adaptability and effectiveness in real-world scenarios.
 
-- **Key Features**:
-  - **Modular Structure**: Scalable and maintainable with distinct modules.
-  - **Database Interaction**: Seamless connection to MySQL databases for storing and retrieving results.
-  - **Customizable Analysis & Python Script Integration**: Users can run custom scripts, integrating Python or Golang commands.
-  - **Command-Line Interface**: Utilizes Cobra library for user-friendly interactions.
-  - **Tech Stack**: Golang, Python integration, MySQL for database, Git for version control.
+**Key Features**:
+- Modular Structure: Scalable and maintainable with distinct modules.
+- Database Interaction: Seamless connection to MySQL databases for storing and retrieving results.
+- Customizable Analysis & Python Script Integration: Users can run custom scripts, integrating Python or Golang commands.
+- Command-Line Interface: Utilizes Cobra library for user-friendly interactions.
+- **Tech Stack**: Golang, Python integration, MySQL for database, Git for version control.
 
 [Explore Advanced Data Analysis CLI Framework](https://github.com/amy324/CLI-Framework-for-Advanced-Analysis)
+
+## Skills-Based Projects
 
 ### Monte Carlo Pi Simulator
 A CLI application performing a Monte Carlo simulation to estimate the value of π, utilizing Golang's concurrency features and plotting libraries for efficient computation and data visualization.
 
-- **Key Features**:
-  - **Golang Concurrency**: Efficient generation and processing of random points concurrently.
-  - **Modular Structure**: Organized for readability and maintainability.
-  - **Plotting with Gonum/Plot**: Visualization of generated points for analysis.The program saves a .png scatter graph to the project directory.
+**Key Features**:
+- Golang Concurrency: Efficient generation and processing of random points concurrently.
+- Modular Structure: Organized for readability and maintainability.
+- Plotting with Gonum/Plot: Visualization of generated points for analysis.
 
 [View Monte Carlo Pi Simulator on GitHub](https://github.com/amy324/Golang-Monte-Carlo-Simulator)
 
-### CLI To-Do List App
-Allows users to manage their to-do tasks with basic CRUD operations.
+### CSV Parsing CLI Tool
+A CLI tool for parsing CSV data, saving to PostgreSQL, and performing calculations with said data. Prioritizes efficiency, scalability, and maintainability within the backend infrastructure.
 
-- **Features**:
-  - **Add, View, Mark, and Delete Tasks**: Basic task management functionalities.
-  - **Simple Command-Line Interface**: Easy-to-use interface for task management.
+**Features**:
+- CSV Data Parsing: Streamline the parsing of CSV files effortlessly with the `parsecsv` command.
+- PostgreSQL Integration: Establish seamless connections to a PostgreSQL database through the `connectdb` command.
+- Foundations for Advanced Analytics: Establish a solid groundwork for tackling advanced statistical analysis tasks, showcasing a backend-centric approach.
 
-[Check out the CLI To-Do List App](https://github.com/amy324/Golang-Todo-List-CLI-App)
-
-### Golang Weather CLI App
-A command-line tool fetching and displaying weather information for a given location.
-
-- **Features**:
-  - **Retrieve Current Weather**: Based on location, supports automatic detection or manual entry.
-  - **User-friendly Interface**: Simple CLI interface for quick weather checks.
-
-[Explore Golang Weather CLI App](https://github.com/amy324/Golang-CLI-Weather-App)
+[CSV Parsing CLI Tool](https://github.com/amy324/CLI-CSV-Parsing-Tool)
 
 ### Classic Computer Science Problems Series
 Implementations of classic problems using Goroutines and Go concurrency features.
 
-- **Projects**:
-  - [**Dijkstra's Algorithm for Shortest Paths**](https://github.com/amy324/Golang-Algorithm-for-Shortest-Paths)
-  - [**Sleeping Barber Problem**](https://github.com/amy324/Golang-Sleeping-Barber-Problem)
-  - [**Dining Philosophers Problem**](https://github.com/amy324/Dining-Philosophers-Problem)
-  - [**Producer-Consumer Problem**](https://github.com/amy324/Dining-Philosophers-Problem)
+**Projects**:
+- [**Dijkstra's Algorithm for Shortest Paths**](https://github.com/amy324/Golang-Algorithm-for-Shortest-Paths)
+- [**Sleeping Barber Problem**](https://github.com/amy324/Golang-Sleeping-Barber-Problem)
+- [**Dining Philosophers Problem**](https://github.com/amy324/Dining-Philosophers-Problem)
+- [**Producer-Consumer Problem**](https://github.com/amy324/Dining-Philosophers-Problem)
+
+### CLI To-Do List App
+Demonstrates implementing CRUD funbctionality with Golang.
+
+**Features**:
+- Add, View, Mark, and Delete Tasks: Basic task management functionalities.
+- Simple Command-Line Interface: Easy-to-use interface for task management.
+
+[Check out the CLI To-Do List App](https://github.com/amy324/Golang-Todo-List-CLI-App)
+
+### Golang Weather CLI App
+A command-line tool fetching and displaying weather information for a given location. Demonstrates retrieving data from a web API using Golang CLI
+
+**Features**:
+- Retrieve Current Weather: Based on location, supports automatic detection or manual entry.
+- User-friendly Interface: Simple CLI interface for quick weather checks.
+
+[Explore Golang Weather CLI App](https://github.com/amy324/Golang-CLI-Weather-App)
+
+### Golang RESTful API Demo
+A simple backend that demonstrates creating RESTful API endpoints in Golang. The purpose of the API can be anything, but for this, I chose to make its purpose for submitting data points and retrieving analysis results.
+
+[Golang RESTful API Demo](https://github.com/amy324/RESTful-API-Demo-Golang)
+
+
+
 
 
 
