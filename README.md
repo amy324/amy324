@@ -8,9 +8,11 @@ Whether it's optimizing algorithms or sculpting databases, I strive for efficien
 
 💼 Seeking a full-time permanent role to bring my expertise in Go development to a dynamic team and contribute to impactful projects on a larger scale.
 
-🔗 My GitHub serves as a curated showcase of projects, from professional-level examples to smaller projects highlighting specific skills and the versatility of Golang.
+🛠️ Tech I Love: Leveraging concurrency in Go, harnessing goroutines, working with Gorilla Mux for routing, diving into databases with MySQL and PostgreSQL, crafting command-line interfaces with Cobra, and wielding tools like bufio and strconv for efficient data processing
 
-👽 Outside of programming, I enjoy classic sci-fi and playing both retro and modern video games.
+👽 Outside of programming, I'm a huge fan of classic sci-fi, especially the Star Trek and Stargate franchises. I'm also an avid gamer and enjoy playing playing both retro and modern video games. Retro favourites include Sega Mega Drive titles like the Sonic series and Streets of Rage, as well as shooters like Doom and Quake. Modern favourites include the Halo and Mass Effect franchises.
+
+🔗 My GitHub serves as a curated showcase of projects, from professional-level examples to smaller projects highlighting specific skills and the versatility of Golang.
 
 **View my portfolio [here](https://github.com/amy324/Portfolio/blob/main/README.md)**
 
