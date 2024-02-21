@@ -10,9 +10,9 @@ Whether it's optimizing algorithms or sculpting databases, I strive for efficien
 
 🛠️ Tech I Love: Leveraging concurrency in Go, harnessing goroutines, working with Gorilla Mux for routing, diving into databases with MySQL and PostgreSQL, crafting command-line interfaces with Cobra, and wielding tools like bufio and strconv for efficient data processing
 
-👽 Outside of programming, I'm a huge fan of classic sci-fi, especially the Star Trek and Stargate franchises. I'm also an avid gamer and enjoy playing playing both retro and modern video games. Retro favourites include Sega Mega Drive titles like the Sonic series and Streets of Rage, as well as shooters like Doom and Quake. Modern favourites include the Halo and Mass Effect franchises.
+👽 Outside of programming, I enjoy classic sci-fi and playing modern as well as retro video games.
 
-🔗 My GitHub serves as a curated showcase of projects, from professional-level examples to smaller projects highlighting specific skills and the versatility of Golang.
+🔗 My GitHub serves as a curated showcase of projects, from large-scale examples to microservices and smaller, demonstrative projects highlighting specific skills and the versatility of Golang.
 
 **View my portfolio [here](https://github.com/amy324/Portfolio/blob/main/README.md)**
 
