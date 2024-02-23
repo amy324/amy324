@@ -28,6 +28,9 @@
 
 ## Frameworks/Methods
 
+
+## Frameworks/Methods
+
 <table border="0">
   <tr>
     <td>
@@ -48,12 +51,12 @@
         <li>Logging with logrus</li>
         <li>Performance optimization through profiling</li>
         <li>Caching</li>
+        <li>Dependency management with Go modules (Go Modules)</li>
       </ul>
     </td>
     <td>
       <ul>
         <li>Code refactoring</li>
-        <li>Dependency management with Go modules (Go Modules)</li>
         <li>Concurrency patterns (sync package, context package, channels)</li>
         <li>HTTP client and server implementations (Gin, Gorilla/Mux, Echo)</li>
         <li>File handling and manipulation (os package, io/ioutil package, path/filepath package, afero library)</li>
@@ -74,6 +77,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
