@@ -1,7 +1,9 @@
 # About me
 👋 Hi there! I'm Amy, a backend Go engineer 
 
-## 🛠️ Tech I Love:
+## 🛠️ Tech Stack
+
+### Software & Tools:
  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
  ![mySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -24,37 +26,24 @@
  ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 
-### Frameworks:
+### Frameworks/Methods:
+   - RESTful API development using Gin or Gorilla/Mux framework
+   - GraphQL API development with gqlgen
    - Goroutines
    - Mutexes
    - Pointers
+   - Modular Structure
+   - Cobra for CLI UI
    - Context handling for managing context cancellation, timeouts, and deadlines in concurrent programs
-   - RESTful API development using Gin or Gorilla/Mux framework
    - WebSockets for implementing real-time communication
-   - GraphQL API development with gqlgen
    - Middleware implementation for request processing
    - Error handling using Go's built-in error handling mechanisms and custom error types
-   - Cobra
-   - Writing comprehensive tests including unit, integration, and end-to-end tests using testing and testify frameworks
-
-### Databases & Cloud Hosting:
-   - PostgreSQL
-   - MySQL
-   - MariaDB
-   - Docker/Kubernetes containerization
+   - Testing and Testify frameworks for unit, integration, and end-to-end tests using
    - Continuous integration/continuous deployment (CI/CD) setup using Jenkins
-   - AWS (Lambda, ECS, EC2) 
-
-### Software & Tools:
-   - JWT dependency management with Go Modules
    - Logging with logrus
-   - Monitoring with Prometheus
    - Performance optimization through profiling
    - Caching
    - Code refactoring
-   - Integration of Python scripts into Golang applications
-   - Postman/Insomnia
-
 
 🚀 Currently, I'm an experienced freelance Golang engineer, crafting custom solutions that drive business success. My projects range from building bespoke CRM systems tailored to clients' unique needs to developing sophisticated analytical software for decision-making.
 
