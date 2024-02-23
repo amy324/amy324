@@ -4,7 +4,6 @@
 🛠️ Tech/Techniques I Love:
 
 ### Frameworks:
-1. Concurrency:
    - Goroutines
    - Mutexes
    - Pointers
@@ -18,11 +17,9 @@
    - Writing comprehensive tests including unit, integration, and end-to-end tests using testing and testify frameworks
 
 ### Databases & Cloud Hosting:
-1. Database Management:
    - PostgreSQL
    - MySQL
    - MariaDB
-2. Cloud Deployment:
    - Docker/Kubernetes containerization
    - Continuous integration/continuous deployment (CI/CD) setup using Jenkins
    - AWS (Lambda, ECS, EC2) for efficient deployment
