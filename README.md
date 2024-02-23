@@ -44,7 +44,6 @@
         <li>Error handling using Go's built-in error handling mechanisms and custom error types</li>
         <li>Middleware implementation for request processing</li>
         <li>Testing and Testify frameworks for unit, integration, and end-to-end tests</li>
-        <li>Continuous integration/continuous deployment (CI/CD) setup using Jenkins</li>
         <li>Logging with logrus</li>
       </ul>
     </td>
@@ -52,6 +51,7 @@
       <ul>
          <li>Dependency management with Go modules (Go Modules)</li>
         <li>Code refactoring</li>
+        <li>Continuous integration/continuous deployment (CI/CD) setup using Jenkins</li>
         <li>Concurrency patterns (sync package, context package, channels)</li>
         <li>HTTP client and server implementations (Gin, Gorilla/Mux, Echo)</li>
         <li>File handling and manipulation (os package, io/ioutil package, path/filepath package, afero library)</li>
@@ -63,7 +63,6 @@
         <li>Task queues and background processing (celery, go-workers)</li>
         <li>Encryption and secure communication (crypto, crypto/tls)</li>
          <li>Performance optimization through profiling</li>
-        <li>API rate limiting and throttling (github.com/didip/tollbooth)</li>
       </ul>
     </td>
   </tr>
