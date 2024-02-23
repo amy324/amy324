@@ -1,7 +1,7 @@
 # About me
 👋 Hi there! I'm Amy, a backend Go engineer 
 
-🛠️ Tech/Techniques I Love:
+## 🛠️ Tech I Love:
 
 ### Frameworks:
    - Goroutines
