@@ -48,15 +48,15 @@
         <li>Logging with logrus</li>
         <li>Performance optimization through profiling</li>
         <li>Caching</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
         <li>Code refactoring</li>
         <li>Dependency management with Go modules (Go Modules)</li>
         <li>Concurrency patterns (sync package, context package, channels)</li>
         <li>HTTP client and server implementations (Gin, Gorilla/Mux, Echo)</li>
         <li>File handling and manipulation (os package, io/ioutil package, path/filepath package, afero library)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
         <li>Security best practices in Go applications (bcrypt library, jwt-go library)</li>
         <li>API versioning and documentation (OpenAPI/Swagger)</li>
         <li>Error monitoring and alerting (Prometheus, Grafana, Sentry, Rollbar)</li>
