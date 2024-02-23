@@ -68,7 +68,7 @@
 </table>
 
 
-## View my portfolio [here](https://github.com/amy324/Portfolio/blob/main/README.md)
+## 👀 View my portfolio [here](https://github.com/amy324/Portfolio/blob/main/README.md)
 🔗 My GitHub serves as a curated showcase of projects, from large-scale examples to microservices and smaller, demonstrative projects highlighting specific skills and the versatility of Golang.
 
 <details>
