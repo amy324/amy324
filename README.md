@@ -25,25 +25,37 @@
  ![Jetbrains](https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white)
  ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
+<columns>
 
-### Frameworks/Methods:
-   - RESTful API development using Gin or Gorilla/Mux framework
-   - GraphQL API development with gqlgen
-   - Goroutines
-   - Mutexes
-   - Pointers
-   - Modular Structure
-   - Cobra for CLI UI
-   - Context handling for managing context cancellation, timeouts, and deadlines in concurrent programs
-   - WebSockets for implementing real-time communication
-   - Middleware implementation for request processing
-   - Error handling using Go's built-in error handling mechanisms and custom error types
-   - Testing and Testify frameworks for unit, integration, and end-to-end tests using
-   - Continuous integration/continuous deployment (CI/CD) setup using Jenkins
-   - Logging with logrus
-   - Performance optimization through profiling
-   - Caching
-   - Code refactoring
+[column]
+
+- RESTful API development using Gin or Gorilla/Mux framework
+- GraphQL API development with gqlgen
+- Goroutines
+- Mutexes
+- Pointers
+- Modular Structure
+- Cobra for CLI UI
+- Context handling for managing context cancellation, timeouts, and deadlines in concurrent programs
+- WebSockets for implementing real-time communication
+
+[/column]
+
+[column]
+
+- Middleware implementation for request processing
+- Error handling using Go's built-in error handling mechanisms and custom error types
+- Testing and Testify frameworks for unit, integration, and end-to-end tests using
+- Continuous integration/continuous deployment (CI/CD) setup using Jenkins
+- Logging with logrus
+- Performance optimization through profiling
+- Caching
+- Code refactoring
+
+[/column]
+
+</columns>
+
 
 
 
