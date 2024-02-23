@@ -56,7 +56,6 @@
         <li>HTTP client and server implementations (Gin, Gorilla/Mux, Echo)</li>
         <li>File handling and manipulation (os package, io/ioutil package, path/filepath package, afero library)</li>
         <li>Security best practices in Go applications (bcrypt library, jwt-go library)</li>
-        <li>API versioning and documentation (OpenAPI/Swagger)</li>
         <li>Session management (gorilla/sessions)</li>
         <li>Real-time data processing (gonet library)</li>
         <li>Internationalization and localization (go-i18n)</li>
