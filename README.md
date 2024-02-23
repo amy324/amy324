@@ -28,12 +28,9 @@
 
 ## Frameworks/Methods
 
-
-## Frameworks/Methods
-
 <table border="0">
   <tr>
-    <td>
+    <td valign="top">
       <ul>
         <li>RESTful API development using Gin or Gorilla/Mux framework</li>
         <li>GraphQL API development with gqlgen</li>
@@ -54,7 +51,7 @@
         <li>Dependency management with Go modules (Go Modules)</li>
       </ul>
     </td>
-    <td>
+    <td valign="top">
       <ul>
         <li>Code refactoring</li>
         <li>Concurrency patterns (sync package, context package, channels)</li>
@@ -77,6 +74,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
