@@ -46,7 +46,7 @@
    - Code refactoring
 
   <details>
-  <summary>Click for more about me</summary>
+  <summary>### Click For More About Me</summary>
   
  
 🚀 Currently, I'm an experienced freelance Golang engineer, crafting custom solutions that drive business success. My projects range from building bespoke CRM systems tailored to clients' unique needs to developing sophisticated analytical software for decision-making.
