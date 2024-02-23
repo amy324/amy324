@@ -3,7 +3,39 @@
 
 🛠️ Tech/Techniques I Love:
 
-**Concurrency**, **goroutines**, **mutexes**, **pointers**, **PostgreSQL**, **MySQL**, **MariaDB**, **os/exec**, **Docker/Kubernettes containerization**, **Cobra**, **JWT** dependency management with **Go Modules**, **RESTful API** development using **Gin** or **Gorilla/Mux** framework, logging with **logrus**, monitoring with **Prometheus**, performance optimization through **profiling, caching, and code refactoring**, continuous integration/continuous deployment **(CI/CD)** setup using **Jenkins**, **WebSockets** for implementing real-time communication, **microservices** architecture design and development using **gRPC**, **GraphQL** API development with **gqlgen**, **integration of Python** scripts into Golang applications,  writing comprehensive tests including **unit, integration, and end-to-end tests** using **testing and testify frameworks**, **encryption and authentication** for data security, **AWS (Lambda, ECS, EC2)** for efficient deployment, **middleware implementation** for request processing, error handling using Go's built-in **error handling** mechanisms and custom error types, and context handling for managing context cancellation, timeouts, and deadlines in concurrent programs.
+### Frameworks:
+1. Concurrency:
+   - Goroutines
+   - Mutexes
+   - Pointers
+   - Context handling for managing context cancellation, timeouts, and deadlines in concurrent programs
+   - RESTful API development using Gin or Gorilla/Mux framework
+   - WebSockets for implementing real-time communication
+   - GraphQL API development with gqlgen
+   - Middleware implementation for request processing
+   - Error handling using Go's built-in error handling mechanisms and custom error types
+   - Cobra
+   - Writing comprehensive tests including unit, integration, and end-to-end tests using testing and testify frameworks
+
+### Databases & Cloud Hosting:
+1. Database Management:
+   - PostgreSQL
+   - MySQL
+   - MariaDB
+2. Cloud Deployment:
+   - Docker/Kubernetes containerization
+   - Continuous integration/continuous deployment (CI/CD) setup using Jenkins
+   - AWS (Lambda, ECS, EC2) for efficient deployment
+
+### Software & Tools:
+   - JWT dependency management with Go Modules
+   - Logging with logrus
+   - Monitoring with Prometheus
+   - Performance optimization through profiling
+   - Caching
+   - Code refactoring
+   - Integration of Python scripts into Golang applications
+
 
 🚀 Currently, I'm an experienced freelance Golang engineer, crafting custom solutions that drive business success. My projects range from building bespoke CRM systems tailored to clients' unique needs to developing sophisticated analytical software for decision-making.
 
