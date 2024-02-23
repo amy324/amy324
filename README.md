@@ -59,7 +59,6 @@
         <li>File handling and manipulation (os package, io/ioutil package, path/filepath package, afero library)</li>
         <li>Security best practices in Go applications (bcrypt library, jwt-go library)</li>
         <li>API versioning and documentation (OpenAPI/Swagger)</li>
-        <li>Error monitoring and alerting (Prometheus, Grafana, Sentry, Rollbar)</li>
         <li>Session management (gorilla/sessions)</li>
         <li>Real-time data processing (gonet library)</li>
         <li>Internationalization and localization (go-i18n)</li>
@@ -67,7 +66,6 @@
         <li>Encryption and secure communication (crypto, crypto/tls)</li>
         <li>Service discovery and load balancing (etcd, Consul, nginx)</li>
         <li>API rate limiting and throttling (github.com/didip/tollbooth)</li>
-        <li>Service monitoring and metrics collection (Prometheus, Grafana)</li>
       </ul>
     </td>
   </tr>
