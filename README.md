@@ -28,6 +28,8 @@
 
 ## Frameworks/Methods
 
+## Frameworks/Methods
+
 <table border="0">
   <tr>
     <td>
@@ -41,12 +43,12 @@
         <li>Cobra for CLI UI</li>
         <li>Context handling for managing context cancellation, timeouts, and deadlines in concurrent programs</li>
         <li>WebSockets for implementing real-time communication</li>
+        <li>Middleware implementation for request processing</li>
+        <li>Error handling using Go's built-in error handling mechanisms and custom error types</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Middleware implementation for request processing</li>
-        <li>Error handling using Go's built-in error handling mechanisms and custom error types</li>
         <li>Testing and Testify frameworks for unit, integration, and end-to-end tests using</li>
         <li>Continuous integration/continuous deployment (CI/CD) setup using Jenkins</li>
         <li>Logging with logrus</li>
