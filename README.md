@@ -57,9 +57,6 @@
 📖 I hold a Master of Research in Statistics and love any math-heavy projects
 
 👽 Outside of programming, I enjoy classic sci-fi and playing both modern and retro video games.
-
-
-
 </details>
 
 
