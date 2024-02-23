@@ -40,10 +40,10 @@
         <li>Modular Structure</li>
         <li>Cobra for CLI UI</li>
         <li>Context handling</li>
-        <li>WebSockets for implementing real-time communication</li>
+        <li>WebSockets</li>
         <li>Error handling</li>
         <li>Middleware implementation for request processing</li>
-        <li>Testing and Testify frameworks for unit, integration, and end-to-end tests</li>
+        <li>Testing and Testify frameworks for unit, integration, & end-to-end tests</li>
         <li>Logging with logrus</li>
       </ul>
     </td>
@@ -53,13 +53,13 @@
         <li>Code refactoring</li>
         <li>CI/CD setup using Jenkins</li>
         <li>Concurrency patterns (sync package, context package, channels)</li>
-        <li>HTTP client and server implementations (Gin, Gorilla/Mux, Echo)</li>
-        <li>File handling and manipulation (os package, io/ioutil package, path/filepath package, afero library)</li>
+        <li>HTTP client & server implementations (Gin, Gorilla/Mux, Echo)</li>
+        <li>File handling & manipulation (os package, io/ioutil package, path/filepath package, afero library)</li>
         <li>Security (bcrypt library, jwt-go library)</li>
         <li>Session management (gorilla/sessions)</li>
         <li>Real-time data processing (gonet library)</li>
-        <li>Internationalization and localization (go-i18n)</li>
-        <li>Task queues and background processing (celery, go-workers)</li>
+        <li>Internationalization & localization (go-i18n)</li>
+        <li>Task queues & background processing (celery, go-workers)</li>
         <li>Encryption (crypto, crypto/tls)</li>
          <li>Performance optimization through profiling</li>
       </ul>
