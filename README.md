@@ -22,7 +22,7 @@
    - MariaDB
    - Docker/Kubernetes containerization
    - Continuous integration/continuous deployment (CI/CD) setup using Jenkins
-   - AWS (Lambda, ECS, EC2) for efficient deployment
+   - AWS (Lambda, ECS, EC2) 
 
 ### Software & Tools:
    - JWT dependency management with Go Modules
@@ -32,6 +32,7 @@
    - Caching
    - Code refactoring
    - Integration of Python scripts into Golang applications
+   - Postman/Insomnia
 
 
 🚀 Currently, I'm an experienced freelance Golang engineer, crafting custom solutions that drive business success. My projects range from building bespoke CRM systems tailored to clients' unique needs to developing sophisticated analytical software for decision-making.
