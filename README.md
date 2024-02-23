@@ -26,7 +26,7 @@
  ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 
-### Frameworks/Methods
+### Frameworks/Libraries/Methods:
 
 <table border="0">
   <tr>
@@ -46,13 +46,12 @@
         <li>Testing and Testify frameworks for unit, integration, and end-to-end tests</li>
         <li>Continuous integration/continuous deployment (CI/CD) setup using Jenkins</li>
         <li>Logging with logrus</li>
-        <li>Performance optimization through profiling</li>
         <li>Caching</li>
-        <li>Dependency management with Go modules (Go Modules)</li>
       </ul>
     </td>
     <td valign="top">
       <ul>
+         <li>Dependency management with Go modules (Go Modules)</li>
         <li>Code refactoring</li>
         <li>Concurrency patterns (sync package, context package, channels)</li>
         <li>HTTP client and server implementations (Gin, Gorilla/Mux, Echo)</li>
@@ -65,6 +64,7 @@
         <li>Task queues and background processing (celery, go-workers)</li>
         <li>Encryption and secure communication (crypto, crypto/tls)</li>
         <li>Service discovery and load balancing (etcd, Consul, nginx)</li>
+         <li>Performance optimization through profiling</li>
         <li>API rate limiting and throttling (github.com/didip/tollbooth)</li>
       </ul>
     </td>
