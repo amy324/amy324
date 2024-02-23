@@ -60,8 +60,6 @@
         <li>Security best practices in Go applications (bcrypt library, jwt-go library)</li>
         <li>API versioning and documentation (OpenAPI/Swagger)</li>
         <li>Error monitoring and alerting (Prometheus, Grafana, Sentry, Rollbar)</li>
-        <li>Job scheduling with cron or other libraries (cron package, robfig/cron library)</li>
-        <li>Data validation and sanitization (validator package)</li>
         <li>Session management (gorilla/sessions)</li>
         <li>Real-time data processing (gonet library)</li>
         <li>Internationalization and localization (go-i18n)</li>
