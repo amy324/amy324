@@ -45,10 +45,9 @@
    - Caching
    - Code refactoring
 
-  <details>
-  <summary>### Click For More About Me</summary>
-  
- 
+<details>
+<summary><h2>Click For More About Me</h2></summary>
+
 🚀 Currently, I'm an experienced freelance Golang engineer, crafting custom solutions that drive business success. My projects range from building bespoke CRM systems tailored to clients' unique needs to developing sophisticated analytical software for decision-making.
 
 💼 Seeking a full-time permanent role to bring my expertise in Go development to a dynamic team and contribute to impactful projects on a larger scale.
@@ -57,8 +56,8 @@
 
 👽 Outside of programming, I enjoy classic sci-fi and playing both modern and retro video games.
 
-
 </details>
+
 
 
 
