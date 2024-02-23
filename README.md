@@ -48,16 +48,7 @@
   <details>
   <summary>Click me</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-
-</details>
-
-
+ 
 🚀 Currently, I'm an experienced freelance Golang engineer, crafting custom solutions that drive business success. My projects range from building bespoke CRM systems tailored to clients' unique needs to developing sophisticated analytical software for decision-making.
 
 💼 Seeking a full-time permanent role to bring my expertise in Go development to a dynamic team and contribute to impactful projects on a larger scale.
@@ -65,6 +56,11 @@
 📖 I hold a Master of Research in Statistics and love any math-heavy projects
 
 👽 Outside of programming, I enjoy classic sci-fi and playing both modern and retro video games.
+
+
+</details>
+
+
 
 
 
