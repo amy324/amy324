@@ -28,8 +28,6 @@
 
 ## Frameworks/Methods
 
-## Frameworks/Methods
-
 <table border="0">
   <tr>
     <td>
@@ -43,22 +41,40 @@
         <li>Cobra for CLI UI</li>
         <li>Context handling for managing context cancellation, timeouts, and deadlines in concurrent programs</li>
         <li>WebSockets for implementing real-time communication</li>
-        <li>Middleware implementation for request processing</li>
         <li>Error handling using Go's built-in error handling mechanisms and custom error types</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Testing and Testify frameworks for unit, integration, and end-to-end tests using</li>
+        <li>Middleware implementation for request processing</li>
+        <li>Testing and Testify frameworks for unit, integration, and end-to-end tests</li>
         <li>Continuous integration/continuous deployment (CI/CD) setup using Jenkins</li>
         <li>Logging with logrus</li>
         <li>Performance optimization through profiling</li>
         <li>Caching</li>
         <li>Code refactoring</li>
+        <li>Dependency management with Go modules (Go Modules)</li>
+        <li>Concurrency patterns (sync package, context package, channels)</li>
+        <li>HTTP client and server implementations (Gin, Gorilla/Mux, Echo)</li>
+        <li>File handling and manipulation (os package, io/ioutil package, path/filepath package, afero library)</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Security best practices in Go applications (bcrypt library, jwt-go library)</li>
+        <li>API versioning and documentation (OpenAPI/Swagger)</li>
+        <li>Error monitoring and alerting (Prometheus, Grafana, Sentry, Rollbar)</li>
+        <li>Job scheduling with cron or other libraries (cron package, robfig/cron library)</li>
+        <li>Data validation and sanitization (validator package)</li>
+        <li>Session management (gorilla/sessions)</li>
+        <li>Real-time data processing (gonet library)</li>
+        <li>Internationalization and localization (go-i18n)</li>
+        <li>Task queues and background processing (celery, go-workers)</li>
+        <li>Encryption and secure communication (crypto, crypto/tls)</li>
+        <li>Service discovery and load balancing (etcd, Consul, nginx)</li>
+        <li>API rate limiting and throttling (github.com/didip/tollbooth)</li>
+        <li>Service monitoring and metrics collection (Prometheus, Grafana)</li>
       </ul>
     </td>
   </tr>
 </table>
+
 
 
 
