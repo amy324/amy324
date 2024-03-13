@@ -47,7 +47,7 @@
         <li>Modular Structure</li>
         <li>Cobra for CLI UI</li>
         <li>Context handling</li>
-       <li>Automation and IaC: Terraform, Ansible, CloudFormation, Jenkins, GitLab CI/CD, CircleCI</li>>
+       <li>Automation and IaC: Terraform, Ansible, CloudFormation, Jenkins, GitLab CI/CD, CircleCI</li>
         <li>WebSockets</li>
         <li>Error handling</li>
         <li>Middleware implementation for request processing</li>
