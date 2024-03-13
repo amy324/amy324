@@ -1,5 +1,5 @@
 # About me
-👋 Hi there! I'm Amy, a backend Go engineer 
+👋 Hi there! I'm Amy, a backend software engineer 
 
 ## 🛠️ Tech Stack
 
