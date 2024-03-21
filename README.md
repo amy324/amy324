@@ -21,6 +21,8 @@
  ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
  ![Insominia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
  ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+ ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
  ![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
  ![Testing](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
@@ -77,7 +79,7 @@
 
 
 ## 👀 View my portfolio [here](https://github.com/amy324/Portfolio/blob/main/README.md)
-🔗 My GitHub serves as a curated showcase of projects, from large-scale examples to microservices and smaller, demonstrative projects highlighting specific skills and the versatility of Golang.
+🔗 My GitHub serves as a curated showcase of projects, from large-scale examples to microservices and smaller, demonstrative projects highlighting specific skills.
 
 <details>
 <summary><h2>Click For More About Me</h2></summary>
