@@ -84,7 +84,7 @@
 <details>
 <summary><h2>Click For More About Me</h2></summary>
 
-🚀 Currently, I'm an experienced freelance Golang engineer, crafting custom solutions that drive business success. My projects range from building bespoke CRM systems tailored to clients' unique needs to developing sophisticated analytical software for decision-making.
+🚀 Currently, I'm an experienced freelance engineer, crafting custom solutions that drive business success. My projects range from building bespoke CRM systems tailored to clients' unique needs to developing sophisticated analytical software for decision-making.
 
 💼 Seeking opportunities to bring my expertise in progamming to a dynamic team and contribute to impactful projects on a larger scale.
 
