@@ -81,18 +81,6 @@
 ## 👀 View my portfolio [here](https://github.com/amy324/Portfolio/blob/main/README.md)
 🔗 My GitHub serves as a curated showcase of projects, from large-scale examples to microservices and smaller, demonstrative projects highlighting specific skills.
 
-<details>
-<summary><h2>Click For More About Me</h2></summary>
-
-🚀 Currently, I'm an experienced freelance engineer, crafting custom solutions that drive business success. My projects range from building bespoke CRM systems tailored to clients' unique needs to developing sophisticated analytical software for decision-making.
-
-💼 Seeking opportunities to bring my expertise in progamming to a dynamic team and contribute to impactful projects on a larger scale.
-
-📖 I hold a Master of Research in Statistics and love any math-heavy projects.
-
-👽 Outside of programming, I enjoy classic sci-fi and playing both modern and retro video games.
-
-</details>
 
 
 
