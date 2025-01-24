@@ -35,47 +35,6 @@
  ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
 
-### Frameworks/Libraries/Methods:
-
-<table border="0">
-  <tr>
-    <td valign="top">
-      <ul>
-        <li>RESTful API development using Gin or Gorilla/Mux framework</li>
-        <li>GraphQL API development with gqlgen</li>
-        <li>Goroutines</li>
-        <li>Mutexes</li>
-        <li>Pointers</li>
-        <li>Modular Structure</li>
-        <li>Cobra for CLI UI</li>
-        <li>Context handling</li>
-       <li>Automation and IaC: Terraform, Ansible, CloudFormation, Jenkins, GitLab CI/CD, CircleCI</li>
-        <li>WebSockets</li>
-        <li>Error handling</li>
-        <li>Middleware implementation for request processing</li>
-        <li>Testing and Testify frameworks for unit, integration, & end-to-end tests</li>
-        <li>Logging with logrus</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-         <li>Dependency management with Go modules</li>
-        <li>Code refactoring</li>
-        <li>CI/CD setup using Jenkins</li>
-        <li>Concurrency patterns (sync package, context package, channels)</li>
-        <li>HTTP client & server implementations (Gin, Gorilla/Mux, Echo)</li>
-        <li>File handling & manipulation (os package, io/ioutil package, path/filepath package, afero library)</li>
-        <li>Security (bcrypt library, jwt-go library)</li>
-        <li>Session management (gorilla/sessions)</li>
-        <li>Real-time data processing (gonet library)</li>
-        <li>Internationalization & localization (go-i18n)</li>
-        <li>Task queues & background processing (celery, go-workers)</li>
-        <li>Encryption (crypto, crypto/tls)</li>
-         <li>Performance optimization through profiling</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 
 ## 👀 View my portfolio [here](https://github.com/amy324/Portfolio/blob/main/README.md)
